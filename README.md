@@ -1,1 +1,1 @@
-# PythonHackathon
+# PythonWizards
